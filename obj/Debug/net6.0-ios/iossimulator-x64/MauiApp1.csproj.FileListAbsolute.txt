@@ -239,6 +239,7 @@
 /Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/mauiimage.stamp
 /Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/f/MauiInfo.plist
 /Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/mauifont.stamp
+/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/f/ionicons.ttf
 /Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/f/OpenSans-Regular.ttf
 /Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/f/OpenSans-Semibold.ttf
 /Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/actool/_PartialAppManifest.items
@@ -263,3 +264,24 @@
 /Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/MauiApp1.pdb
 /Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/MauiApp1.genruntimeconfig.cache
 /Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/ref/MauiApp1.dll
+/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@2x 2.png
+/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@3x 2.png
+/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@2x 2.png
+/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@3x 2.png
+/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@2x 2.png
+/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@3x 2.png
+/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@2x 2.png
+/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@3x 2.png
+/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon76x76@2x 2.png
+/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon83.5x83.5@2x 2.png
+/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appiconItunesArtwork 2.png
+/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/Contents 2.json
+/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/dotnet_bot 2.png
+/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/dotnet_bot@2x 2.png
+/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/dotnet_bot@3x 2.png
+/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/splash 2.png
+/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/splash@2x 2.png
+/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/r/splash@3x 2.png
+/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/f/MauiInfo 2.plist
+/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/f/OpenSans-Regular 2.ttf
+/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/obj/Debug/net6.0-ios/iossimulator-x64/resizetizer/f/OpenSans-Semibold 2.ttf

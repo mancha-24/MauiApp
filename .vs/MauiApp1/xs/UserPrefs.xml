@@ -1,11 +1,25 @@
 ﻿<Properties StartupConfiguration="{FF95536B-24B9-4256-A33F-4323788966CB}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MauiProgram.cs">
+    <Files>
+      <File FileName="MauiProgram.cs" Line="14" Column="6" />
+      <File FileName="AppShell.xaml" Line="62" Column="36" />
+      <File FileName="Views/Shirts.xaml" Line="10" Column="17" />
+      <File FileName="Views/Shirts.xaml.cs" Line="6" Column="2" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MauiApp1" expanded="True">
-            <Node name="MauiApp1" expanded="True" selected="True" />
+            <Node name="MauiApp1" expanded="True">
+              <Node name="Services" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="MauiProgram.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -14,11 +28,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.MauiApp1 PreferredExecutionTarget="MyAppleMacCatalystID" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.ItemProperties.MauiApp1 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
 </Properties>

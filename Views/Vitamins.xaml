@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.Views.Vitamins"
+             Title="Vitamins">
+
+   <CollectionView ItemsSource="{Binding Items}" SelectionChangedCommand="{Binding ItemSelectedCommand}" SelectionChangedCommandParameter="{Binding Source={RelativeSource Mode=Self}, Path=SelectedItem}" SelectionMode="Single">
+        <CollectionView.ItemsLayout>
+            <GridItemsLayout Orientation="Vertical" Span="{OnIdiom Default=2, Phone=1,Desktop=3, Tablet=3,TV=3}">
+            </GridItemsLayout>
+        </CollectionView.ItemsLayout>
+
+
+        <CollectionView.ItemTemplate>
+            <DataTemplate>
+                <VerticalStackLayout HorizontalOptions="Center">
+                    <Image Source="{Binding ImageUrl}" Aspect="AspectFill" />
+                    <Label Text="{Binding Title}"  HorizontalOptions="Center" />
+                </VerticalStackLayout>
+
+            </DataTemplate>
+        </CollectionView.ItemTemplate>
+    </CollectionView>
+
+</ContentPage>

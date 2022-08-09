@@ -38,3 +38,33 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+
+[/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/Views/Detail.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Views.Detail.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/Detail.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/Detail.xaml
+
+[/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/Views/Drinks.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Views.Drinks.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/Drinks.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/Drinks.xaml
+
+[/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/Views/PantsList.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Views.PantsList.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/PantsList.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/PantsList.xaml
+
+[/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/Views/Shirts.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Views.Shirts.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/Shirts.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/Shirts.xaml
+
+[/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/Views/Vitamins.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Views.Vitamins.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/Vitamins.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/Vitamins.xaml

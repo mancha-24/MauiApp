@@ -1,14 +1,65 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <Shell
     x:Class="MauiApp1.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:MauiApp1"
-    Shell.FlyoutBehavior="Disabled">
+    xmlns:views="clr-namespace:MauiApp1.Views"
+    Shell.FlyoutBehavior="{OnIdiom Flyout, Desktop=Locked, Tablet=Locked, TV=Locked}" 
+	    FlyoutIsPresented="{OnIdiom False, Desktop=True, Tablet=True, TV=True}">
 
-    <ShellContent
+    <!--<ShellContent
         Title="Home"
         ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
+        Route="MainPage" />-->
+
+    <FlyoutItem Title="Clothing">
+         <FlyoutItem.FlyoutIcon>
+            <FontImageSource Glyph="&#xF4F7;"  Size="30" FontFamily="Ionicons" Color="{StaticResource Primary}">
+            </FontImageSource>
+        </FlyoutItem.FlyoutIcon>
+        <Tab Title="Tops">
+            <Tab.Icon>
+                <FontImageSource Glyph="&#xF4F7;" Size="30" FontFamily="Ionicons"  Color="{StaticResource Primary}">
+                </FontImageSource>
+            </Tab.Icon>
+            <ShellContent ContentTemplate="{DataTemplate views:Shirts}" />
+        </Tab>
+        <Tab Title="Pants">
+            <Tab.Icon>
+                <FontImageSource Glyph="&#xF202;" Size="30" FontFamily="Ionicons" Color="{StaticResource Primary}">
+                </FontImageSource>
+            </Tab.Icon>
+            <ShellContent ContentTemplate="{DataTemplate views:PantsList}" />
+        </Tab>
+    </FlyoutItem>
+
+    <FlyoutItem Title="Supplements">
+        <FlyoutItem.FlyoutIcon>
+            <FontImageSource Glyph="&#xF272;" Size="30" FontFamily="Ionicons" Color="{StaticResource Primary}">
+            </FontImageSource>
+        </FlyoutItem.FlyoutIcon>
+        <Tab Title="Drinks">
+             <Tab.Icon>
+                <FontImageSource Glyph="&#xF272;" Size="30" FontFamily="Ionicons" Color="{StaticResource Primary}">
+                </FontImageSource>
+            </Tab.Icon>
+        <ShellContent ContentTemplate="{DataTemplate views:Drinks}" />
+        </Tab>
+        <Tab Title="Vitamins">
+            <Tab.Icon>
+                <FontImageSource Glyph="&#xF431;" Size="30" FontFamily="Ionicons" Color="{StaticResource Primary}">
+                </FontImageSource>
+            </Tab.Icon>
+            <ShellContent ContentTemplate="{DataTemplate views:Vitamins}" />
+        </Tab>
+    </FlyoutItem>
+
+    <MenuItem Text="Settings" Command="{Binding SettingsCommand}">
+        <MenuItem.IconImageSource>
+            <FontImageSource Glyph="&#xF4C3;" Size="30" FontFamily="Ionicons" Color="{StaticResource Primary}">
+            </FontImageSource>
+        </MenuItem.IconImageSource>
+    </MenuItem>
 
 </Shell>

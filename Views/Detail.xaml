@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.Views.Detail"
+             Title="Detail">
+
+     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="12*" />
+            <RowDefinition Height="4*" />
+        </Grid.RowDefinitions>
+
+        <Label Text="{Binding Model.Title}" FontAttributes="Bold" FontSize="Title" HorizontalOptions="Center" Grid.ColumnSpan="2" />
+
+        <Image Source="{Binding Model.ImageUrl}" Aspect="AspectFit" Grid.Row="1" Grid.ColumnSpan="2" />
+
+        <!--Child grid -->
+        <Grid Grid.Row="2" Grid.ColumnSpan="2" Margin="10,5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <Label Grid.ColumnSpan="2" LineBreakMode="WordWrap" Text="{Binding Model.Description}" FontSize="Small" />
+
+            <Label Grid.Row="1" LineBreakMode="WordWrap" FontAttributes="Italic" Text="{Binding Model.Category, StringFormat='Category: {0}'}" FontSize="Medium" />
+            <Label Grid.Row="1" Grid.Column="1" LineBreakMode="WordWrap" FontAttributes="Italic" Text="{Binding Model.SubCategory, StringFormat='Subcategory: {0}'}" FontSize="Medium" />
+
+        </Grid>
+    </Grid>
+</ContentPage>
