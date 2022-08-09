@@ -57,6 +57,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Views.PantsList.x
 build_metadata.AdditionalFiles.TargetPath = Views/PantsList.xaml
 build_metadata.AdditionalFiles.RelativePath = Views/PantsList.xaml
 
+[/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/Views/Settings.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Views.Settings.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/Settings.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/Settings.xaml
+
 [/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/Views/Shirts.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Views.Shirts.xaml

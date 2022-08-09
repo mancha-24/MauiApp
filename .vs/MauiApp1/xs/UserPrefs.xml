@@ -1,24 +1,18 @@
 ﻿<Properties StartupConfiguration="{FF95536B-24B9-4256-A33F-4323788966CB}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MauiProgram.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Settings.xaml">
     <Files>
-      <File FileName="MauiProgram.cs" Line="14" Column="6" />
-      <File FileName="AppShell.xaml" Line="62" Column="36" />
-      <File FileName="Views/Shirts.xaml" Line="10" Column="17" />
-      <File FileName="Views/Shirts.xaml.cs" Line="6" Column="2" />
+      <File FileName="Views/Settings.xaml" Line="19" Column="28" />
+      <File FileName="Views/Settings.xaml.cs" Line="12" Column="30" />
+      <File FileName="AppShell.xaml.cs" Line="17" Column="6" />
+      <File FileName="AppShell.xaml" Line="58" Column="64" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MauiApp1" expanded="True">
             <Node name="MauiApp1" expanded="True">
-              <Node name="Services" expanded="True" />
-              <Node name="ViewModels" expanded="True" />
-              <Node name="MauiProgram.cs" selected="True" />
+              <Node name="Views" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -28,7 +22,15 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BCEF09CC-DFD6-4E8F-BBBE-84A713547B35" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.MauiApp1 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.ItemProperties.MauiApp1 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BCEF09CC-DFD6-4E8F-BBBE-84A713547B35" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/Platforms/iOS/Program.cs" relfile="Platforms/iOS/Program.cs" line="7" column="1" />
+      <Breakpoint file="/Users/manuel.chavez/Documents/Documents - AMAC02YT578LVDC/3-NET/Practices/MAUI/MauiApp1/MauiApp1/ViewModels/CollectionBaseViewModel.cs" relfile="ViewModels/CollectionBaseViewModel.cs" line="26" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
 </Properties>

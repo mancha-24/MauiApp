@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.Views.Settings"
+             Title="Settings">
+    <TableView Intent="Settings" HasUnevenRows="true">
+        <TableRoot>
+            <TableSection Title="Behavior">
+                <SwitchCell Text="Use Local" On="True"/>
+            </TableSection>
+            <TableSection Title="Remotes">
+                <EntryCell Keyboard="Url" Label="Server" Text="https://hplussport.com/" />
+                <ViewCell>
+                    <VerticalStackLayout Margin="{OnPlatform Default='10,10', WinUI='0,5'}">
+                        <Label Text="Threshold" FontAttributes="Bold"/>
+                        <Slider Maximum="100" Scale="1" Minimum="1" />
+                    </VerticalStackLayout>
+                </ViewCell>
+            </TableSection>
+            <TableSection Title="Profile">
+                <EntryCell Keyboard="Email" Label="Email: "/>
+                <EntryCell Keyboard="Telephone" Label="Phone: " />
+            </TableSection>
+        </TableRoot>
+    </TableView>
+
+</ContentPage>
